@@ -1,0 +1,2 @@
+# input_data_parameter_R_TSQL
+input_data parameter testing for R_TSQL procedure sp_execute_external_script
